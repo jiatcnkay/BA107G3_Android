@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d82b2</color>
+    <color name="colorSecond">#4d4d4d</color>
+    <color name="colorNotify">#1d82b2</color>
+    <color name="textcolor">#383838</color>
+    <color name="whiteyellow">#fff6d9</color>
+    <color name="Second">#9b7011</color>
+    <color name="bgcolor">#fff</color>
+    <color name="toolbar">#fae193</color>
+    <color name="nocolor">#2d000000</color>
+    <color name="pink">#ffdcdc</color>
+    <color name="whitegray">#b9b9b9</color>
+    <color name="gray">#d6d6d6</color>
+    <color name="whiteblue">#1ab4ff</color>
+    <color name="deeppink">#ff9696</color>
+    <color name="red">#ff0000</color>
+    <color name="yellow">#ffe600</color>
+    <color name="green">#5fce5d</color>
+    <color name="chatblue">#aecad7</color>
+    <color name="dialog">#14000000</color>
+    <color name="checkingray">#f2f2f2</color>
+</resources>

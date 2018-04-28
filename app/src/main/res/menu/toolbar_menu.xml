@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/notify"
+        android:icon="@drawable/ic_notify"
+        android:orderInCategory="1"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/btnlogin"
+        android:orderInCategory="2"
+        android:title="@string/login"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/btnlogout"
+        android:orderInCategory="3"
+        android:title="@string/logout"
+        android:visible="false"
+        app:showAsAction="always" />
+</menu>

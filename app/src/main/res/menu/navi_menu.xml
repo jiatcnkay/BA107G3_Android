@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single">
+        <item
+            android:title="@string/home"
+            android:id="@+id/navi_item_home"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:title="@string/search"
+            android:id="@+id/navi_item_search"
+            android:icon="@drawable/ic_search"/>
+        <item
+            android:title="@string/talk"
+            android:id="@+id/navi_item_chat"
+            android:icon="@drawable/ic_talk" />
+        <item
+            android:title="@string/gift"
+            android:id="@+id/navi_item_shop"
+            android:icon="@drawable/ic_gift"/>
+        <item
+            android:title="@string/event"
+            android:id="@+id/navi_item_event"
+            android:icon="@drawable/ic_event"/>
+        <item
+            android:title="@string/giftbox"
+            android:id="@+id/navi_item_gift"
+            android:icon="@drawable/ic_giftbox"/>
+    </group>
+</menu>
